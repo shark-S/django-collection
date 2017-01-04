@@ -1,2 +1,2 @@
 # django-practice
-Django App built while learning django
+Collection of Apps build on Django
